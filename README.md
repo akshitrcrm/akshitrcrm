@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akshit</h1>
 <h3 align="center">A passionate frontend and mobile app developer at RecruitCRM</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshitrcrm&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="akshitrcrm" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=akshitrcrm&label=Profile%20views&color=008aff&style=for-the-badge" alt="akshitrcrm" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshitrcrm" alt="akshitrcrm" /></a> </p>
 
